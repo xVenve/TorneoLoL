@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a8862bf-1aad-4280-a373-c3852f0bb7b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TorneoLoL-91e815443db5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/torneoLoL.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloWorld.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cxi5YwbbhzEe2AGOkGnIgOTdw3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -78,15 +75,15 @@
       <method v="2" />
     </configuration>
     <configuration name="torneoLoL" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
+      <module name="TorneoLoL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\Jorge\AppData\Local\Programs\Python\Python37-32\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/torneoLoL.py" />
@@ -128,26 +125,30 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="960" y="441" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1410/-1920.0.1920.1050@0.0.2560.1410" timestamp="1591476480691" />
+    <state x="989" y="300" key="#torneoLoL" timestamp="1591559129992">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="989" y="300" key="#torneoLoL/0.0.2560.1410/-1920.0.1920.1050@0.0.2560.1410" timestamp="1591559129992" />
     <state x="672" y="301" key="FileChooserDialogImpl" timestamp="1591477112575">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="672" y="301" key="FileChooserDialogImpl/0.0.2560.1410/-1920.0.1920.1050@0.0.2560.1410" timestamp="1591477112575" />
-    <state width="2539" height="404" key="GridCell.Tab.0.bottom" timestamp="1591485486653">
+    <state width="2539" height="404" key="GridCell.Tab.0.bottom" timestamp="1591559596487">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="2539" height="404" key="GridCell.Tab.0.bottom/0.0.2560.1410/-1920.0.1920.1050@0.0.2560.1410" timestamp="1591485486653" />
-    <state width="2539" height="404" key="GridCell.Tab.0.center" timestamp="1591485486653">
+    <state width="2539" height="404" key="GridCell.Tab.0.bottom/0.0.2560.1410/-1920.0.1920.1050@0.0.2560.1410" timestamp="1591559596487" />
+    <state width="2539" height="404" key="GridCell.Tab.0.center" timestamp="1591559596486">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="2539" height="404" key="GridCell.Tab.0.center/0.0.2560.1410/-1920.0.1920.1050@0.0.2560.1410" timestamp="1591485486653" />
-    <state width="2539" height="404" key="GridCell.Tab.0.left" timestamp="1591485486653">
+    <state width="2539" height="404" key="GridCell.Tab.0.center/0.0.2560.1410/-1920.0.1920.1050@0.0.2560.1410" timestamp="1591559596486" />
+    <state width="2539" height="404" key="GridCell.Tab.0.left" timestamp="1591559596486">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="2539" height="404" key="GridCell.Tab.0.left/0.0.2560.1410/-1920.0.1920.1050@0.0.2560.1410" timestamp="1591485486653" />
-    <state width="2539" height="404" key="GridCell.Tab.0.right" timestamp="1591485486653">
+    <state width="2539" height="404" key="GridCell.Tab.0.left/0.0.2560.1410/-1920.0.1920.1050@0.0.2560.1410" timestamp="1591559596486" />
+    <state width="2539" height="404" key="GridCell.Tab.0.right" timestamp="1591559596486">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="2539" height="404" key="GridCell.Tab.0.right/0.0.2560.1410/-1920.0.1920.1050@0.0.2560.1410" timestamp="1591485486653" />
+    <state width="2539" height="404" key="GridCell.Tab.0.right/0.0.2560.1410/-1920.0.1920.1050@0.0.2560.1410" timestamp="1591559596486" />
     <state x="143" y="191" key="SettingsEditor" timestamp="1591479554460">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
